@@ -1,0 +1,2 @@
+F:\NodeLogin\LoginSignup\LoginSignup\obj\Debug\LoginSignup.njsprojAssemblyReference.cache
+F:\NodeLogin\LoginSignup\LoginSignup\bin\Microsoft.NodejsTools.WebRole.dll

@@ -1,0 +1,9 @@
+{
+  "name": "login-signup",
+  "version": "0.0.0",
+  "description": "LoginSignup",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
